@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "parkeratkins.ca"
+description: "Full Stack Software Developer"
 
 # Build settings
 markdown: kramdown
@@ -10,13 +10,13 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Homer J. Simpson"
-resume_title:                   "Nuclear Safety Inspector"
-resume_contact_email:           "homerjsimpson@youremailaddress.com"
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
-resume_header_contact_info: "742 Evergreen Terrace, Springfield | 555-7334 | homerjsimpson@youremailaddress.com"
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but K.I.S.S.</p>"
+resume_name:                    "Parker Atkins"
+resume_title:                   "Full Stack Web Developer"
+resume_contact_email:           "parker_atkins@hotmail.com"
+resume_contact_telephone:       "(604)928-3539"
+resume_contact_address:         "1359 St Patrick Street, Victoria"
+resume_header_contact_info: "1359 St Patrick Street, Victoria | (604)928-3539 | parker_atkins@hotmail.com"
+resume_header_intro: "<p>Hi, I'm Parker. I am a professional full stack web developer. I am highly motivated, very organized and enjoy working in innovative development teams. Currently, I am seeking challenging new work opportunities. </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -30,21 +30,21 @@ resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          true
-resume_section_recognition:     true
+resume_section_recognition:     false
 resume_section_links:           true
-resume_section_associations:    true
-# resume_section_interests:       true
+resume_section_associations:    false
+resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
+  resume_github_url:            "https://github.com/pcatkins"
+  # resume_twitter_url:           "http://twitter.com/jglovier"
+  # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
+  resume_linkedin_url:          "https://www.linkedin.com/in/parker-atkins-54b00868"
+  resume_instagram_url:         "https://www.instagram.com/parkeratkins/"
+  # resume_website_url:           "http://joelglovier.com"
 resume_print_social_links:      true
 
 # Design settings

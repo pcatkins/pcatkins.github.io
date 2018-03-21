@@ -1,16 +1,16 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# donutfinder.io
-- project: donutfinder.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# Dev Translate
+- project: Dev Translate
+  role: Co-Founder
+  duration: 2018 &mdash; Present
   # url: "#"
-  description: Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home.
+  description: Dev Translate is a tool that allows developers to translate large string files without the tedium of manually translate each string. Find link below.
 
-#Springfield Donut Eater's User Group
-- project: Springfield Donut Eater's User Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# Surfing Junky
+- project: Surfing Junky
+  role: Founder
+  duration: 2017 &mdash; Present
   # url: "#"
-  description: DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.
+  description: Surfing Junky provides a platform for surfing enthusiasts to buy and sell local used surf equipment. Find link below.
