@@ -1,16 +1,23 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# Dev Translate
-- project: Dev Translate
-  role: Co-Founder
-  duration: 2018 &mdash; Present
-  # url: "#"
-  description: Dev Translate is a tool that allows developers to translate large string files without the tedium of manually translate each string. Find link below.
-
 # Surfing Junky
 - project: Surfing Junky
   role: Founder
-  duration: 2017 &mdash; Present
-  # url: "#"
-  description: Surfing Junky provides a platform for surfing enthusiasts to buy and sell local used surf equipment. Find link below.
+  duration: 2018 &mdash; Present
+  url: "http://surfingjunky.ca"
+  description: Surfing Junky provides a platform for surfing enthusiasts to buy and sell local used surf equipment.
+
+# Dev Translate
+# - project: Dev Translate
+#   role: Co-Founder
+#   duration: 2017 &mdash; Present
+#   url: "http://devtranslate.com"
+#   description: Dev Translate is a tool that allows developers to translate large string files without the tedium of manually translate each string.
+
+# Rootd
+- project: Rootd
+  role: Sub-contractor
+  duration: 2017
+  url: "http://rootd.io/"
+  description: Cross platform mobile application built with React Native. Integrated frontend with Google Firebase backend. Released on both Google Play and Apple App Store.
