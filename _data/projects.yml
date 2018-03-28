@@ -6,7 +6,7 @@
   role: Founder
   duration: 2018 &mdash; Present
   url: "http://surfingjunky.ca"
-  description: Surfing Junky provides a platform for surfing enthusiasts to buy and sell local used surf equipment.
+  description: React web application with Google Firebase backend. Surfing Junky provides a platform for surfing enthusiasts to buy and sell local used surf equipment. Currently in development.
 
 # Dev Translate
 # - project: Dev Translate
