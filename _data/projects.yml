@@ -9,11 +9,11 @@
   description: React web application with Google Firebase backend. Surfing Junky provides a platform for surfing enthusiasts to buy and sell local used surf equipment. Currently in development.
 
 # Dev Translate
-# - project: Dev Translate
-#   role: Co-Founder
-#   duration: 2017 &mdash; Present
-#   url: "http://devtranslate.com"
-#   description: Dev Translate is a tool that allows developers to translate large string files without the tedium of manually translate each string.
+- project: Dev Translate
+  role: Co-Founder
+  duration: 2017 &mdash; Present
+  url: "http://devtranslate.com"
+  description: React web application utilizing Google Cloud Functions. Dev Translate is a tool that allows developers to translate large string files without the tedium of manually translating each string.
 
 # Rootd
 - project: Rootd
